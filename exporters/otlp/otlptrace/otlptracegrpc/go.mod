@@ -9,7 +9,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.11.1
 	go.opentelemetry.io/otel/sdk v1.11.1
 	go.opentelemetry.io/proto/otlp v0.19.0
-	go.uber.org/goleak v1.2.0
+	go.uber.org/goleak v1.2.1
 	google.golang.org/genproto v0.0.0-20211118181313-81c1377c94b1
 	google.golang.org/grpc v1.50.1
 	google.golang.org/protobuf v1.28.1
